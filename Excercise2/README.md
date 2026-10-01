@@ -1,11 +1,3 @@
-In this exercise, we want you to build a dynamic shopping list that allows you to add items using a form input and a button. After you type an item in the input field and click the button or press the Enter key, the following should happen:
-
-The item should appear in the list.
-Each item should have a button next to it that removes the item from the list when clicked.
-The input fields should be cleared and focused, ready for the next item entry.
-
-To complete the exercise, follow the steps below, and make sure that the list behaves as described above.
-
 To begin, download a copy of our shopping-list.html starting file and make a copy of it somewhere. You'll see that it has some minimal CSS, a form with a label, input, and button, an empty list, and a <script> element. You'll be making all your additions inside the script.
 Create three variables that hold references to the list (<ul>), <input>, and <button> elements.
 Create a function that will run in response to the button being clicked.
