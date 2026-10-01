@@ -5,5 +5,9 @@ li {
 li button {
     font-size: 12px;
     margin-left: 20px;
-    color: grey;
+    color: white;
+    background-color: lightblue;
+    border-radius: 5px;
+    border-color: blue;
 }
+
